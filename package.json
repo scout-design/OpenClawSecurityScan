@@ -1,0 +1,20 @@
+{
+  "name": "openclaw-security-scan",
+  "version": "1.0.0",
+  "description": "OpenClaw 安全检测工具 - 全方位检测并一键修复安全问题",
+  "main": "security-scan.js",
+  "bin": {
+    "security-scan": "./security-scan.js"
+  },
+  "keywords": [
+    "openclaw",
+    "security",
+    "scanner",
+    "audit"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
